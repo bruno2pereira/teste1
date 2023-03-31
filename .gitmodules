@@ -1,0 +1,3 @@
+[submodule "pasta2"]
+	path = pasta2
+	url = git@github.com:bruno2pereira/test2.git
